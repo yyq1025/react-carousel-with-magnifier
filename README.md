@@ -1,2 +1,3 @@
 # react-carousel-with-magnifier
-Created with CodeSandbox
+
+Preview: https://codesandbox.io/s/react-carousel-with-magnifier-z4yvez
